@@ -8,7 +8,7 @@ Turn that blurry frown upside down with `./camera-cli`!
 
 `camera-cli` is a simple executable to configure a webcam such as the [Logitech C920 HD Pro](https://www.logitech.com/en-us/products/webcams/c920-pro-hd-webcam.960-000764.html) to specific settings.
 
-## A script that shouldn't be necesssary, but is
+## Customize your camera from the CLI
 
 For some reason, Logitech C920 [settings won't save](https://www.reddit.com/r/Twitch/comments/b5uw68/c920_settings_wont_save/) using their provided Mac [Camera Settings](https://support.logi.com/hc/en-us/articles/360024849133--Downloads-HD-Pro-Webcam-C920) app.
 
