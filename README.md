@@ -2,11 +2,11 @@
 
 Tired of your webcam trying to hard and putting you out of focus?
 
-![Before image blurry](img/before.png?raw=true "Before")
+![Before image blurry](img/before.jpg?raw=true "Before")
 
 Well turn that blurry frown upside down with `./camera-cli`
 
-![After image crisp](img/after.png?raw=true "After")
+![After image crisp](img/after.jpg?raw=true "After")
 
 `camera-cli` is a simple executable to configure a webcam such as the [Logitech C920 HD Pro](https://www.logitech.com/en-us/products/webcams/c920-pro-hd-webcam.960-000764.html) to specific settings.
 
