@@ -10,9 +10,9 @@ Turn that blurry frown upside down with `./camera-cli`!
 
 ## Customize your camera from the CLI
 
-For some reason, Logitech C920 [settings won't save](https://www.reddit.com/r/Twitch/comments/b5uw68/c920_settings_wont_save/) using their provided Mac [Camera Settings](https://support.logi.com/hc/en-us/articles/360024849133--Downloads-HD-Pro-Webcam-C920) app.
+For some reason, Logitech C920 [settings won't save](https://www.reddit.com/r/Twitch/comments/b5uw68/c920_settings_wont_save/) using their provided Mac [Camera Settings](https://support.logi.com/hc/en-us/articles/360024849133--Downloads-HD-Pro-Webcam-C920) app. I built this script as a faster alternative to using the app.
 
-Running this script:
+This script currently:
 - Disables auto-focus
 - Sets focus to minimum value
 
