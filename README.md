@@ -1,6 +1,8 @@
 # camera-cli
 
-Tired of your webcam putting you out of focus? Turn that blurry frown upside down with `./camera-cli`!
+Tired of your webcam putting you out of focus?
+
+Turn that blurry frown upside down with `./camera-cli`!
 
 ![Before and after](img/readme.png?raw=true "Before and after")
 
