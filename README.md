@@ -22,6 +22,7 @@ Leverages [LibUVC](https://github.com/libuvc/libuvc) so likely works with [other
 This small executable is hardly a CLI, but may become more customizable and easy to install in the future if there is demand.
 
 ## How to use
+Requires [homebrew](https://brew.sh/)
 
 ```bash
 brew install libuvc
