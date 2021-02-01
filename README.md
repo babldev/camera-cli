@@ -1,6 +1,6 @@
 # camera-cli
 
-Tired of your webcam putting you out of focus?
+Tired of your webcam putting you out of focus after it forgets your preferred settings?
 
 Turn that blurry frown upside down with `./camera-cli`
 
