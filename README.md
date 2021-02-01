@@ -8,7 +8,7 @@ Turn that blurry frown upside down with `./camera-cli`
 
 `camera-cli` is a tiny executable for quickly configuring a webcam such as the [Logitech C920 HD Pro](https://www.logitech.com/en-us/products/webcams/c920-pro-hd-webcam.960-000764.html) to specific settings.
 
-## Is your webcam forgetting your settings?
+## A forgetful camera
 The [Logitech C920 (and perhaps many other webcams) reset settings every time they are unplugged](https://www.reddit.com/r/obs/comments/fflg5g/logitech_cam_keeps_resetting_video_settings_back//). For those who use a laptop / frequently disconnect a camera, this can be extremely annoying. The [Camera Settings app provided by Logitech](https://support.logi.com/hc/en-us/articles/360024849133--Downloads-HD-Pro-Webcam-C920) requires a bunch of steps to reapply preferred settings. I built this script as a faster alternative to the Logitech app.
 
 The script currently:
