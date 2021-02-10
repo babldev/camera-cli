@@ -24,9 +24,15 @@ This small executable is hardly a CLI, but may become more customizable and easy
 ## How to use
 Requires [homebrew](https://brew.sh/)
 
+Intel mac:
 ```bash
 brew install libuvc
 make
 ./camera-cli
+```
+
+M1 mac make:
+```bash
+gcc -L /opt/homebrew/lib -I /opt/homebrew/include -luvc -o camera-cli main.c
 ```
  
