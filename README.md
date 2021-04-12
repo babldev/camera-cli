@@ -30,9 +30,3 @@ brew install libuvc
 make
 ./camera-cli
 ```
-
-M1 mac make:
-```bash
-gcc -L /opt/homebrew/lib -I /opt/homebrew/include -luvc -o camera-cli main.c
-```
- 
