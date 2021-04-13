@@ -24,7 +24,7 @@ This small executable is hardly a CLI, but may become more customizable and easy
 ## How to use
 Requires [homebrew](https://brew.sh/)
 
-Intel mac:
+On Mac: (Intel or Apple Silicon)
 ```bash
 brew install libuvc
 make
