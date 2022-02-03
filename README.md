@@ -1,3 +1,5 @@
+**Note:** Tool is broken as of macOS Monterey
+
 # camera-cli
 
 Tired of your webcam putting you out of focus after it forgets your preferred settings?
