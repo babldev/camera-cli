@@ -3,4 +3,4 @@ repos:
     rev: v4.1.0
     hooks:
     -   id: end-of-file-fixer
-    -   id: requirements-txt-fixer
+    -   id: trailing-whitespace
