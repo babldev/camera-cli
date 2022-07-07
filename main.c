@@ -8,7 +8,7 @@ int main(int argc, char **argv) {
     uvc_device_t *dev;
     uvc_device_handle_t *devh;
     uvc_error_t res;
-    
+
     res = uvc_init(&ctx, NULL);
     if (res < 0) {
         uvc_perror(res, "uvc_init");
@@ -22,7 +22,7 @@ int main(int argc, char **argv) {
     if (res < 0) {
         uvc_perror(res, "uvc_find_device");
         return res;
-    }        
+    }
     puts("device found");
 
     res = uvc_open(dev, &devh);
